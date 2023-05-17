@@ -1,2 +1,2 @@
-# -bugbounty_checklist
+# bugbounty_checklist
 bugbounty checklist
