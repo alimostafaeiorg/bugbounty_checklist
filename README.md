@@ -1,2 +1,1 @@
-# bugbounty_checklist
-bugbounty checklist
+# Web-Sec-CheatSheet
